@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQTutorial", "QueriesAssignment\LINQTutorial.csproj", "{021E96C3-1F91-445D-B2CF-398942AFD125}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesLibrary", "..\SalesLibrarySolution\SalesLibrary\SalesLibrary.csproj", "{2FA946AB-C54F-458E-8A8B-B1971AD01853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021E96C3-1F91-445D-B2CF-398942AFD125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021E96C3-1F91-445D-B2CF-398942AFD125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021E96C3-1F91-445D-B2CF-398942AFD125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021E96C3-1F91-445D-B2CF-398942AFD125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA946AB-C54F-458E-8A8B-B1971AD01853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA946AB-C54F-458E-8A8B-B1971AD01853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA946AB-C54F-458E-8A8B-B1971AD01853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA946AB-C54F-458E-8A8B-B1971AD01853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F2A684-D85E-452D-925E-C2DCD24E8562}
+	EndGlobalSection
+EndGlobal
